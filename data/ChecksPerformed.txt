@@ -1,0 +1,1638 @@
+-------------------------------------------------
+Column to be tested: reviewChapter0_1_tag
+c("all_Q2_NA", "not_all_Q2_NA", NA)
+c(2015, 1969, 0)
+-------------------------------------------------
+Column to be tested: reviewChapter0_1_ALL_NA
+c("FALSE", NA)
+c(3984, 0)
+-------------------------------------------------
+Column to be tested: reviewChapter0_1_combined
+c("Not Active And All NA", "Not Active And Not All NA", "Active And All NA", "Active And Not All NA", NA)
+c(0, 2015, 0, 1969, 0)
+-------------------------------------------------
+Column to be tested: reviewChapter0_2
+c("APC-Check-In-Conditions", NA)
+c(1978, 2006)
+-------------------------------------------------
+Column to be tested: reviewChapter1_1
+c("review1-Out", NA)
+c(146, 3838)
+-------------------------------------------------
+Column to be tested: reviewChapter1_2
+c("review2-In", NA)
+c(505, 3479)
+-------------------------------------------------
+Column to be tested: reviewChapter1_3
+c("review3-In", "NAs", NA)
+c(2749, 0, 1235)
+-------------------------------------------------
+Column to be tested: reviewChapter1_4
+c("review4-in-1", "review4-in-2", "review4-in-3", "review4-in-4", "review4-in-5", "review4-in-6", "review4-in-7", "review4-in-9", NA)
+c(985, 206, 0, 0, 0, 0, 0, 0, 2793)
+-------------------------------------------------
+Column to be tested: reviewChapter1_5
+c("review5-in-1", "review5-flag-never", "review5-in-2", NA)
+c(972, 8, 206, 2798)
+-------------------------------------------------
+Column to be tested: reviewChapter1_6
+c("review6-in-1", "review6-flag-never", "review6-in-2", NA)
+c(1026, 5, 156, 2797)
+-------------------------------------------------
+Column to be tested: reviewChapter1_7
+c("review7-in-1", "review7-in-2", NA)
+c(195, 42, 3747)
+-------------------------------------------------
+Column to be tested: reviewChapter1_8
+c("review8-1", "review8-flag-NA", NA)
+c(3172, 0, 812)
+-------------------------------------------------
+Column to be tested: reviewChapter1_9
+c("review9-1", "review9-2", NA)
+c(677, 2494, 813)
+-------------------------------------------------
+Column to be tested: reviewChapter1_10
+c("review10-1", "review10-2", NA)
+c(677, 2494, 813)
+-------------------------------------------------
+Column to be tested: reviewChapter2_1_a
+c("review-in-1", "review-in-2", NA)
+c(97, 678, 3209)
+-------------------------------------------------
+Column to be tested: reviewChapter2_1_b
+c("review-in-1", "review-in-2", NA)
+c(361, 678, 2945)
+-------------------------------------------------
+Column to be tested: reviewChapter2_1_c
+c("review-in-1", "review-in-2", NA)
+c(595, 678, 2711)
+-------------------------------------------------
+Column to be tested: reviewChapter2_2_a
+c("review-in-1", "review-in-2", NA)
+c(1886, 595, 1503)
+-------------------------------------------------
+Column to be tested: reviewChapter2_2_b
+c("review-in-1", "review-in-2", NA)
+c(1886, 595, 1503)
+-------------------------------------------------
+Column to be tested: reviewChapter2_3_a
+c("review-in-1", "review-in-2", NA)
+c(1900, 97, 1987)
+-------------------------------------------------
+Column to be tested: reviewChapter2_3_b
+c("review-in-1", "review-in-2", NA)
+c(1916, 361, 1707)
+-------------------------------------------------
+Column to be tested: reviewChapter2_3_c
+c("review-in-1", "review-in-2", NA)
+c(1661, 595, 1728)
+-------------------------------------------------
+Column to be tested: reviewChapter2_4_1
+c("review-in-1", "review-in-2", NA)
+c(1913, 0, 2071)
+-------------------------------------------------
+Column to be tested: reviewChapter2_4_2
+c("review-in-1", "review-in-2", NA)
+c(1913, 0, 2071)
+-------------------------------------------------
+Column to be tested: reviewChapter2_4_3
+c("review-in-1", "review-in-2", NA)
+c(1913, 0, 2071)
+-------------------------------------------------
+Column to be tested: reviewChapter2_4_4
+c("review-in-1", "review-in-2", NA)
+c(1913, 0, 2071)
+-------------------------------------------------
+Column to be tested: reviewChapter2_4_5
+c("review-in-1", "review-in-2", NA)
+c(1913, 0, 2071)
+-------------------------------------------------
+Column to be tested: reviewChapter2_4_6
+c("review-in-1", "review-in-2", NA)
+c(1913, 0, 2071)
+-------------------------------------------------
+Column to be tested: reviewChapter2_4_7
+c("review-in-1", "review-in-2", NA)
+c(1913, 0, 2071)
+-------------------------------------------------
+Column to be tested: reviewChapter2_4_8
+c("review-in-1", "review-in-2", NA)
+c(1913, 0, 2071)
+-------------------------------------------------
+Column to be tested: reviewChapter2_4_9
+c("review-in-1", "review-in-2", NA)
+c(1913, 0, 2071)
+-------------------------------------------------
+Column to be tested: reviewChapter2_4_10
+c("review-in-1", "review-in-2", NA)
+c(1913, 0, 2071)
+-------------------------------------------------
+Column to be tested: reviewChapter2_4_11
+c("review-in-1", "review-in-2", NA)
+c(1913, 0, 2071)
+-------------------------------------------------
+Column to be tested: reviewChapter2_4_12
+c("review-in-1", "review-in-2", NA)
+c(1913, 0, 2071)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_1
+c("review-in-1", "review-in-2", NA)
+c(8, 1131, 2845)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_2
+c("review-in-1", "review-in-2", NA)
+c(6, 1131, 2847)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_3
+c("review-in-1", "review-in-2", NA)
+c(6, 1131, 2847)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_4
+c("review-in-1", "review-in-2", NA)
+c(8, 1131, 2845)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_5
+c("review-in-1", "review-in-2", NA)
+c(9, 1131, 2844)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_6
+c("review-in-1", "review-in-2", NA)
+c(2, 1131, 2851)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_7
+c("review-in-1", "review-in-2", NA)
+c(7, 1131, 2846)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_8
+c("review-in-1", "review-in-2", NA)
+c(9, 1131, 2844)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_9
+c("review-in-1", "review-in-2", NA)
+c(1, 1131, 2852)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_10
+c("review-in-1", "review-in-2", NA)
+c(15, 1131, 2838)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_11
+c("review-in-1", "review-in-2", NA)
+c(9, 1131, 2844)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_12
+c("review-in-1", "review-in-2", NA)
+c(7, 1131, 2846)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_13
+c("review-in-1", "review-in-2", NA)
+c(7, 1131, 2846)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_14
+c("review-in-1", "review-in-2", NA)
+c(10, 1131, 2843)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_15
+c("review-in-1", "review-in-2", NA)
+c(4, 1131, 2849)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_16
+c("review-in-1", "review-in-2", NA)
+c(6, 1131, 2847)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_2_17
+c("review-in-1", "review-in-2", NA)
+c(6, 1131, 2847)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_1
+c("review-in-1", "review-in-2", NA)
+c(2, 1074, 2908)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_2
+c("review-in-1", "review-in-2", NA)
+c(6, 1074, 2904)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_3
+c("review-in-1", "review-in-2", NA)
+c(2, 1074, 2908)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_4
+c("review-in-1", "review-in-2", NA)
+c(9, 1074, 2901)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_5
+c("review-in-1", "review-in-2", NA)
+c(9, 1074, 2901)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_6
+c("review-in-1", "review-in-2", NA)
+c(9, 1074, 2901)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_7
+c("review-in-1", "review-in-2", NA)
+c(7, 1074, 2903)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_8
+c("review-in-1", "review-in-2", NA)
+c(7, 1074, 2903)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_9
+c("review-in-1", "review-in-2", NA)
+c(7, 1074, 2903)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_10
+c("review-in-1", "review-in-2", NA)
+c(17, 1074, 2893)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_11
+c("review-in-1", "review-in-2", NA)
+c(8, 1074, 2902)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_12
+c("review-in-1", "review-in-2", NA)
+c(5, 1074, 2905)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_13
+c("review-in-1", "review-in-2", NA)
+c(10, 1074, 2900)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_14
+c("review-in-1", "review-in-2", NA)
+c(15, 1074, 2895)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_15
+c("review-in-1", "review-in-2", NA)
+c(10, 1074, 2900)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_16
+c("review-in-1", "review-in-2", NA)
+c(10, 1074, 2900)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_6_17
+c("review-in-1", "review-in-2", NA)
+c(7, 1074, 2903)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_1
+c("review-in-1", "review-in-2", NA)
+c(11, 959, 3014)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_2
+c("review-in-1", "review-in-2", NA)
+c(9, 959, 3016)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_3
+c("review-in-1", "review-in-2", NA)
+c(9, 959, 3016)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_4
+c("review-in-1", "review-in-2", NA)
+c(8, 959, 3017)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_5
+c("review-in-1", "review-in-2", NA)
+c(8, 959, 3017)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_6
+c("review-in-1", "review-in-2", NA)
+c(5, 959, 3020)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_7
+c("review-in-1", "review-in-2", NA)
+c(8, 959, 3017)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_8
+c("review-in-1", "review-in-2", NA)
+c(8, 959, 3017)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_9
+c("review-in-1", "review-in-2", NA)
+c(7, 959, 3018)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_10
+c("review-in-1", "review-in-2", NA)
+c(30, 959, 2995)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_11
+c("review-in-1", "review-in-2", NA)
+c(10, 959, 3015)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_12
+c("review-in-1", "review-in-2", NA)
+c(10, 959, 3015)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_13
+c("review-in-1", "review-in-2", NA)
+c(16, 959, 3009)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_14
+c("review-in-1", "review-in-2", NA)
+c(13, 959, 3012)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_15
+c("review-in-1", "review-in-2", NA)
+c(10, 959, 3015)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_16
+c("review-in-1", "review-in-2", NA)
+c(7, 959, 3018)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_11_17
+c("review-in-1", "review-in-2", NA)
+c(10, 959, 3015)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_1
+c("review-in-1", "review-in-2", NA)
+c(7, 1054, 2923)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_2
+c("review-in-1", "review-in-2", NA)
+c(4, 1054, 2926)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_3
+c("review-in-1", "review-in-2", NA)
+c(6, 1054, 2924)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_4
+c("review-in-1", "review-in-2", NA)
+c(6, 1054, 2924)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_5
+c("review-in-1", "review-in-2", NA)
+c(4, 1054, 2926)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_6
+c("review-in-1", "review-in-2", NA)
+c(9, 1054, 2921)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_7
+c("review-in-1", "review-in-2", NA)
+c(7, 1054, 2923)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_8
+c("review-in-1", "review-in-2", NA)
+c(4, 1054, 2926)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_9
+c("review-in-1", "review-in-2", NA)
+c(9, 1054, 2921)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_10
+c("review-in-1", "review-in-2", NA)
+c(14, 1054, 2916)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_11
+c("review-in-1", "review-in-2", NA)
+c(5, 1054, 2925)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_12
+c("review-in-1", "review-in-2", NA)
+c(9, 1054, 2921)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_13
+c("review-in-1", "review-in-2", NA)
+c(3, 1054, 2927)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_14
+c("review-in-1", "review-in-2", NA)
+c(9, 1054, 2921)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_15
+c("review-in-1", "review-in-2", NA)
+c(5, 1054, 2925)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_16
+c("review-in-1", "review-in-2", NA)
+c(3, 1054, 2927)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_13_17
+c("review-in-1", "review-in-2", NA)
+c(5, 1054, 2925)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_1
+c("review-in-1", "review-in-2", NA)
+c(15, 709, 3260)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_2
+c("review-in-1", "review-in-2", NA)
+c(16, 709, 3259)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_3
+c("review-in-1", "review-in-2", NA)
+c(15, 709, 3260)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_4
+c("review-in-1", "review-in-2", NA)
+c(16, 709, 3259)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_5
+c("review-in-1", "review-in-2", NA)
+c(11, 709, 3264)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_6
+c("review-in-1", "review-in-2", NA)
+c(13, 709, 3262)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_7
+c("review-in-1", "review-in-2", NA)
+c(11, 709, 3264)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_8
+c("review-in-1", "review-in-2", NA)
+c(13, 709, 3262)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_9
+c("review-in-1", "review-in-2", NA)
+c(14, 709, 3261)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_10
+c("review-in-1", "review-in-2", NA)
+c(53, 709, 3222)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_11
+c("review-in-1", "review-in-2", NA)
+c(18, 709, 3257)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_12
+c("review-in-1", "review-in-2", NA)
+c(15, 709, 3260)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_13
+c("review-in-1", "review-in-2", NA)
+c(13, 709, 3262)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_14
+c("review-in-1", "review-in-2", NA)
+c(25, 709, 3250)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_15
+c("review-in-1", "review-in-2", NA)
+c(12, 709, 3263)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_16
+c("review-in-1", "review-in-2", NA)
+c(13, 709, 3262)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_15_17
+c("review-in-1", "review-in-2", NA)
+c(11, 709, 3264)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_1
+c("review-in-1", "review-in-2", NA)
+c(6, 1213, 2765)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_2
+c("review-in-1", "review-in-2", NA)
+c(9, 1213, 2762)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_3
+c("review-in-1", "review-in-2", NA)
+c(8, 1213, 2763)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_4
+c("review-in-1", "review-in-2", NA)
+c(6, 1213, 2765)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_5
+c("review-in-1", "review-in-2", NA)
+c(10, 1213, 2761)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_6
+c("review-in-1", "review-in-2", NA)
+c(6, 1213, 2765)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_7
+c("review-in-1", "review-in-2", NA)
+c(7, 1213, 2764)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_8
+c("review-in-1", "review-in-2", NA)
+c(4, 1213, 2767)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_9
+c("review-in-1", "review-in-2", NA)
+c(7, 1213, 2764)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_10
+c("review-in-1", "review-in-2", NA)
+c(9, 1213, 2762)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_11
+c("review-in-1", "review-in-2", NA)
+c(8, 1213, 2763)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_12
+c("review-in-1", "review-in-2", NA)
+c(6, 1213, 2765)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_13
+c("review-in-1", "review-in-2", NA)
+c(4, 1213, 2767)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_14
+c("review-in-1", "review-in-2", NA)
+c(10, 1213, 2761)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_15
+c("review-in-1", "review-in-2", NA)
+c(10, 1213, 2761)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_16
+c("review-in-1", "review-in-2", NA)
+c(11, 1213, 2760)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_20_17
+c("review-in-1", "review-in-2", NA)
+c(5, 1213, 2766)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_1
+c("review-in-1", "review-in-2", NA)
+c(7, 733, 3244)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_2
+c("review-in-1", "review-in-2", NA)
+c(11, 733, 3240)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_3
+c("review-in-1", "review-in-2", NA)
+c(16, 733, 3235)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_4
+c("review-in-1", "review-in-2", NA)
+c(9, 733, 3242)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_5
+c("review-in-1", "review-in-2", NA)
+c(11, 733, 3240)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_6
+c("review-in-1", "review-in-2", NA)
+c(3, 733, 3248)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_7
+c("review-in-1", "review-in-2", NA)
+c(10, 733, 3241)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_8
+c("review-in-1", "review-in-2", NA)
+c(7, 733, 3244)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_9
+c("review-in-1", "review-in-2", NA)
+c(9, 733, 3242)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_10
+c("review-in-1", "review-in-2", NA)
+c(36, 733, 3215)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_11
+c("review-in-1", "review-in-2", NA)
+c(6, 733, 3245)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_12
+c("review-in-1", "review-in-2", NA)
+c(12, 733, 3239)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_13
+c("review-in-1", "review-in-2", NA)
+c(11, 733, 3240)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_14
+c("review-in-1", "review-in-2", NA)
+c(19, 733, 3232)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_15
+c("review-in-1", "review-in-2", NA)
+c(10, 733, 3241)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_16
+c("review-in-1", "review-in-2", NA)
+c(13, 733, 3238)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_23_17
+c("review-in-1", "review-in-2", NA)
+c(10, 733, 3241)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_1
+c("review-in-1", "review-in-2", NA)
+c(5, 1305, 2674)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_2
+c("review-in-1", "review-in-2", NA)
+c(4, 1305, 2675)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_3
+c("review-in-1", "review-in-2", NA)
+c(1, 1305, 2678)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_4
+c("review-in-1", "review-in-2", NA)
+c(1, 1305, 2678)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_5
+c("review-in-1", "review-in-2", NA)
+c(6, 1305, 2673)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_6
+c("review-in-1", "review-in-2", NA)
+c(7, 1305, 2672)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_7
+c("review-in-1", "review-in-2", NA)
+c(7, 1305, 2672)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_8
+c("review-in-1", "review-in-2", NA)
+c(1, 1305, 2678)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_9
+c("review-in-1", "review-in-2", NA)
+c(3, 1305, 2676)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_10
+c("review-in-1", "review-in-2", NA)
+c(9, 1305, 2670)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_11
+c("review-in-1", "review-in-2", NA)
+c(3, 1305, 2676)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_12
+c("review-in-1", "review-in-2", NA)
+c(6, 1305, 2673)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_13
+c("review-in-1", "review-in-2", NA)
+c(6, 1305, 2673)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_14
+c("review-in-1", "review-in-2", NA)
+c(4, 1305, 2675)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_15
+c("review-in-1", "review-in-2", NA)
+c(1, 1305, 2678)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_16
+c("review-in-1", "review-in-2", NA)
+c(3, 1305, 2676)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_25_17
+c("review-in-1", "review-in-2", NA)
+c(1, 1305, 2678)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_1
+c("review-in-1", "review-in-2", NA)
+c(7, 1158, 2819)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_2
+c("review-in-1", "review-in-2", NA)
+c(9, 1158, 2817)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_3
+c("review-in-1", "review-in-2", NA)
+c(5, 1158, 2821)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_4
+c("review-in-1", "review-in-2", NA)
+c(8, 1158, 2818)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_5
+c("review-in-1", "review-in-2", NA)
+c(6, 1158, 2820)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_6
+c("review-in-1", "review-in-2", NA)
+c(6, 1158, 2820)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_7
+c("review-in-1", "review-in-2", NA)
+c(11, 1158, 2815)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_8
+c("review-in-1", "review-in-2", NA)
+c(5, 1158, 2821)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_9
+c("review-in-1", "review-in-2", NA)
+c(6, 1158, 2820)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_10
+c("review-in-1", "review-in-2", NA)
+c(15, 1158, 2811)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_11
+c("review-in-1", "review-in-2", NA)
+c(7, 1158, 2819)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_12
+c("review-in-1", "review-in-2", NA)
+c(6, 1158, 2820)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_13
+c("review-in-1", "review-in-2", NA)
+c(8, 1158, 2818)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_14
+c("review-in-1", "review-in-2", NA)
+c(10, 1158, 2816)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_15
+c("review-in-1", "review-in-2", NA)
+c(7, 1158, 2819)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_16
+c("review-in-1", "review-in-2", NA)
+c(6, 1158, 2820)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_28_17
+c("review-in-1", "review-in-2", NA)
+c(7, 1158, 2819)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_1
+c("review-in-1", "review-in-2", NA)
+c(21, 971, 2992)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_2
+c("review-in-1", "review-in-2", NA)
+c(17, 971, 2996)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_3
+c("review-in-1", "review-in-2", NA)
+c(11, 971, 3002)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_4
+c("review-in-1", "review-in-2", NA)
+c(18, 971, 2995)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_5
+c("review-in-1", "review-in-2", NA)
+c(14, 971, 2999)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_6
+c("review-in-1", "review-in-2", NA)
+c(12, 971, 3001)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_7
+c("review-in-1", "review-in-2", NA)
+c(11, 971, 3002)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_8
+c("review-in-1", "review-in-2", NA)
+c(12, 971, 3001)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_9
+c("review-in-1", "review-in-2", NA)
+c(10, 971, 3003)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_10
+c("review-in-1", "review-in-2", NA)
+c(28, 971, 2985)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_11
+c("review-in-1", "review-in-2", NA)
+c(17, 971, 2996)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_12
+c("review-in-1", "review-in-2", NA)
+c(12, 971, 3001)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_13
+c("review-in-1", "review-in-2", NA)
+c(14, 971, 2999)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_14
+c("review-in-1", "review-in-2", NA)
+c(17, 971, 2996)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_15
+c("review-in-1", "review-in-2", NA)
+c(12, 971, 3001)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_16
+c("review-in-1", "review-in-2", NA)
+c(15, 971, 2998)
+-------------------------------------------------
+Column to be tested: reviewChapter3_1_32_17
+c("review-in-1", "review-in-2", NA)
+c(12, 971, 3001)
+-------------------------------------------------
+Column to be tested: reviewChapter3_2
+c("review1-in-1", "review1-in-2", NA)
+c(544, 1158, 2282)
+-------------------------------------------------
+Column to be tested: reviewChapter3_3_1
+c("review-in-1", "review-in-2", NA)
+c(52, 455, 3477)
+-------------------------------------------------
+Column to be tested: reviewChapter3_3_2
+c("review-in-1", "review-in-2", NA)
+c(52, 455, 3477)
+-------------------------------------------------
+Column to be tested: reviewChapter3_3_3
+c("review-in-1", "review-in-2", NA)
+c(52, 455, 3477)
+-------------------------------------------------
+Column to be tested: reviewChapter3_3_4
+c("review-in-1", "review-in-2", NA)
+c(52, 455, 3477)
+-------------------------------------------------
+Column to be tested: reviewChapter3_3_5
+c("review-in-1", "review-in-2", NA)
+c(52, 455, 3477)
+-------------------------------------------------
+Column to be tested: reviewChapter3_3_6
+c("review-in-1", "review-in-2", NA)
+c(52, 455, 3477)
+-------------------------------------------------
+Column to be tested: reviewFunnel_1_1
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_2_1
+c("review-in", NA)
+c(256, 3728)
+-------------------------------------------------
+Column to be tested: reviewFunnel_3_1
+c("review-in", NA)
+c(508, 3476)
+-------------------------------------------------
+Column to be tested: reviewFunnel_4_1
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_1_2
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_2_2
+c("review-in", NA)
+c(199, 3785)
+-------------------------------------------------
+Column to be tested: reviewFunnel_3_2
+c("review-in", NA)
+c(713, 3271)
+-------------------------------------------------
+Column to be tested: reviewFunnel_4_2
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_1_3
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_2_3
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_3_3
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_4_3
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_1_4
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_2_4
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_3_4
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_4_4
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_1_5
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_2_5
+c("review-in", NA)
+c(216, 3768)
+-------------------------------------------------
+Column to be tested: reviewFunnel_3_5
+c("review-in", NA)
+c(751, 3233)
+-------------------------------------------------
+Column to be tested: reviewFunnel_4_5
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_5_a
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_5_b_1
+c("review-in", NA)
+c(787, 3197)
+-------------------------------------------------
+Column to be tested: reviewFunnel_5_b_2
+c("review-in", NA)
+c(1131, 2853)
+-------------------------------------------------
+Column to be tested: reviewFunnel_5_b_3
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_5_b_4
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewFunnel_5_b_5
+c("review-in", NA)
+c(1180, 2804)
+-------------------------------------------------
+Column to be tested: reviewFunnel_5_e
+NA
+3984
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_1
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_2
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_3
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_4
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_5
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_6
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_7
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_8
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_9
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_10
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_11
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_12
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_13
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_14
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_15
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_16
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_17
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_1_18
+c("review-in-1", "review-in-4", NA)
+c(1671, 0, 2313)
+-------------------------------------------------
+Column to be tested: reviewChapter4_2
+c("review-in-1", "review-in-2", NA)
+c(1669, 70, 2245)
+-------------------------------------------------
+Column to be tested: reviewChapter4_3_1
+c("review-in-1", "review-in-2", NA)
+c(547, 0, 3437)
+-------------------------------------------------
+Column to be tested: reviewChapter4_3_2
+c("review-in-1", "review-in-2", NA)
+c(547, 0, 3437)
+-------------------------------------------------
+Column to be tested: reviewChapter4_3_3
+c("review-in-1", "review-in-2", NA)
+c(547, 0, 3437)
+-------------------------------------------------
+Column to be tested: reviewChapter4_3_4
+c("review-in-1", "review-in-2", NA)
+c(547, 0, 3437)
+-------------------------------------------------
+Column to be tested: reviewChapter4_3_5
+c("review-in-1", "review-in-2", NA)
+c(547, 0, 3437)
+-------------------------------------------------
+Column to be tested: reviewChapter4_3_6
+c("review-in-1", "review-in-2", NA)
+c(547, 0, 3437)
+-------------------------------------------------
+Column to be tested: reviewChapter4_3_7
+c("review-in-1", "review-in-2", NA)
+c(547, 0, 3437)
+-------------------------------------------------
+Column to be tested: reviewChapter4_3_8
+c("review-in-1", "review-in-2", NA)
+c(547, 0, 3437)
+-------------------------------------------------
+Column to be tested: reviewChapter4_3_9
+c("review-in-1", "review-in-2", NA)
+c(547, 0, 3437)
+-------------------------------------------------
+Column to be tested: reviewChapter4_3_10
+c("review-in-1", "review-in-2", NA)
+c(547, 0, 3437)
+-------------------------------------------------
+Column to be tested: reviewChapter4_3_11
+c("review-in-1", "review-in-2", NA)
+c(610, 0, 3374)
+-------------------------------------------------
+Column to be tested: reviewChapter4_3_12
+c("review-in-1", "review-in-2", NA)
+c(610, 0, 3374)
+-------------------------------------------------
+Column to be tested: reviewChapter4_3_13
+c("review-in-1", "review-in-2", NA)
+c(610, 0, 3374)
+-------------------------------------------------
+Column to be tested: reviewChapter5_1_1
+c("review1-in-1", "review1-in-2", "review1-in-3", NA)
+c(1718, 0, 0, 2266)
+-------------------------------------------------
+Column to be tested: reviewChapter5_1_2
+c("review1-in-1", "review1-in-2", "review1-in-3", NA)
+c(1718, 0, 0, 2266)
+-------------------------------------------------
+Column to be tested: reviewChapter5_1_3
+c("review1-in-1", "review1-in-2", "review1-in-3", NA)
+c(1718, 0, 0, 2266)
+-------------------------------------------------
+Column to be tested: reviewChapter5_1_4
+c("review1-in-1", "review1-in-2", "review1-in-3", NA)
+c(1718, 0, 0, 2266)
+-------------------------------------------------
+Column to be tested: reviewChapter5_1_5
+c("review1-in-1", "review1-in-2", "review1-in-3", NA)
+c(1718, 0, 0, 2266)
+-------------------------------------------------
+Column to be tested: reviewChapter5_1_6
+c("review1-in-1", "review1-in-2", "review1-in-3", NA)
+c(1718, 0, 0, 2266)
+-------------------------------------------------
+Column to be tested: reviewChapter5_1_7
+c("review1-in-1", "review1-in-2", "review1-in-3", NA)
+c(1718, 0, 0, 2266)
+-------------------------------------------------
+Column to be tested: reviewChapter5_1_8
+c("review1-in-1", "review1-in-2", "review1-in-3", NA)
+c(1718, 0, 0, 2266)
+-------------------------------------------------
+Column to be tested: reviewChapter5_1_9
+c("review1-in-1", "review1-in-2", "review1-in-3", NA)
+c(1718, 0, 0, 2266)
+-------------------------------------------------
+Column to be tested: reviewChapter5_1_10
+c("review1-in-1", "review1-in-2", "review1-in-3", NA)
+c(1718, 0, 0, 2266)
+-------------------------------------------------
+Column to be tested: reviewChapter5_2
+c("review1-in-1", "review1-in-2", NA)
+c(1496, 395, 2093)
+-------------------------------------------------
+Column to be tested: reviewChapter5_3
+c("review1-in-1", "review1-in-2", NA)
+c(1071, 686, 2227)
+-------------------------------------------------
+Column to be tested: reviewChapter6_1
+c("review-in-1", "review-in-2", "review-in-3", "review-in-4", NA)
+c(261, 340, 203, 0, 3180)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_AL
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_AOV
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_BF
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_COD
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_CR
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_CS
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_CF
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_DSTNY
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_DB
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_DOTA2
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_F1
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_FO
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_FIFA
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_FF
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_FN
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_GOW
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_GTA
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_GW
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_HALO
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_HS
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_FG
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_LOL
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_MDDN
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_FH
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_MC
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_MK
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_NBA
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_OW
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_PUBG
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_RDD
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_RL
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_SW
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_SC
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_SF
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_SSB
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_GENI
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_TES
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_R6
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_VLRNT
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_WOT
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_2_WOW
+c("review-in-1", "review-in-2", "review-in-3", NA)
+c(929, 0, 0, 3055)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_AL
+c("review-UnEqual", NA)
+c(749, 3235)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_AL
+c("review-Equal", NA)
+c(180, 3804)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_AOV
+c("review-UnEqual", NA)
+c(589, 3395)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_AOV
+c("review-Equal", NA)
+c(340, 3644)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_BF
+c("review-UnEqual", NA)
+c(785, 3199)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_BF
+c("review-Equal", NA)
+c(144, 3840)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_COD
+c("review-UnEqual", NA)
+c(879, 3105)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_COD
+c("review-Equal", NA)
+c(50, 3934)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_CR
+c("review-UnEqual", NA)
+c(764, 3220)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_CR
+c("review-Equal", NA)
+c(165, 3819)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_CS
+c("review-UnEqual", NA)
+c(721, 3263)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_CS
+c("review-Equal", NA)
+c(208, 3776)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_CF
+c("review-UnEqual", NA)
+c(591, 3393)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_CF
+c("review-Equal", NA)
+c(338, 3646)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_DSTNY
+c("review-UnEqual", NA)
+c(737, 3247)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_DSTNY
+c("review-Equal", NA)
+c(192, 3792)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_DB
+c("review-UnEqual", NA)
+c(721, 3263)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_DB
+c("review-Equal", NA)
+c(208, 3776)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_DOTA2
+c("review-UnEqual", NA)
+c(591, 3393)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_DOTA2
+c("review-Equal", NA)
+c(338, 3646)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_F1
+c("review-UnEqual", NA)
+c(644, 3340)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_F1
+c("review-Equal", NA)
+c(285, 3699)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_FO
+c("review-UnEqual", NA)
+c(783, 3201)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_FO
+c("review-Equal", NA)
+c(146, 3838)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_FIFA
+c("review-UnEqual", NA)
+c(788, 3196)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_FIFA
+c("review-Equal", NA)
+c(141, 3843)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_FF
+c("review-UnEqual", NA)
+c(805, 3179)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_FF
+c("review-Equal", NA)
+c(124, 3860)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_FN
+c("review-UnEqual", NA)
+c(854, 3130)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_FN
+c("review-Equal", NA)
+c(75, 3909)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_GOW
+c("review-UnEqual", NA)
+c(737, 3247)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_GOW
+c("review-Equal", NA)
+c(192, 3792)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_GTA
+c("review-UnEqual", NA)
+c(882, 3102)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_GTA
+c("review-Equal", NA)
+c(47, 3937)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_GW
+c("review-UnEqual", NA)
+c(612, 3372)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_GW
+c("review-Equal", NA)
+c(317, 3667)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_HALO
+c("review-UnEqual", NA)
+c(816, 3168)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_HALO
+c("review-Equal", NA)
+c(113, 3871)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_HS
+c("review-UnEqual", NA)
+c(675, 3309)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_HS
+c("review-Equal", NA)
+c(254, 3730)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_FG
+c("review-UnEqual", NA)
+c(674, 3310)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_FG
+c("review-Equal", NA)
+c(255, 3729)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_LOL
+c("review-UnEqual", NA)
+c(769, 3215)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_LOL
+c("review-Equal", NA)
+c(160, 3824)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_MDDN
+c("review-UnEqual", NA)
+c(789, 3195)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_MDDN
+c("review-Equal", NA)
+c(140, 3844)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_FH
+c("review-UnEqual", NA)
+c(713, 3271)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_FH
+c("review-Equal", NA)
+c(216, 3768)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_MC
+c("review-UnEqual", NA)
+c(878, 3106)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_MC
+c("review-Equal", NA)
+c(51, 3933)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_MK
+c("review-UnEqual", NA)
+c(854, 3130)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_MK
+c("review-Equal", NA)
+c(75, 3909)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_NBA
+c("review-UnEqual", NA)
+c(795, 3189)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_NBA
+c("review-Equal", NA)
+c(134, 3850)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_OW
+c("review-UnEqual", NA)
+c(751, 3233)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_OW
+c("review-Equal", NA)
+c(178, 3806)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_PUBG
+c("review-UnEqual", NA)
+c(677, 3307)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_PUBG
+c("review-Equal", NA)
+c(252, 3732)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_RDD
+c("review-UnEqual", NA)
+c(782, 3202)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_RDD
+c("review-Equal", NA)
+c(147, 3837)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_RL
+c("review-UnEqual", NA)
+c(709, 3275)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_RL
+c("review-Equal", NA)
+c(220, 3764)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_SW
+c("review-UnEqual", NA)
+c(821, 3163)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_SW
+c("review-Equal", NA)
+c(108, 3876)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_SC
+c("review-UnEqual", NA)
+c(661, 3323)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_SC
+c("review-Equal", NA)
+c(268, 3716)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_SF
+c("review-UnEqual", NA)
+c(813, 3171)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_SF
+c("review-Equal", NA)
+c(116, 3868)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_SSB
+c("review-UnEqual", NA)
+c(829, 3155)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_SSB
+c("review-Equal", NA)
+c(100, 3884)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_GENI
+c("review-UnEqual", NA)
+c(613, 3371)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_GENI
+c("review-Equal", NA)
+c(316, 3668)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_TES
+c("review-UnEqual", NA)
+c(712, 3272)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_TES
+c("review-Equal", NA)
+c(217, 3767)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_R6
+c("review-UnEqual", NA)
+c(744, 3240)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_R6
+c("review-Equal", NA)
+c(185, 3799)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_VLRNT
+c("review-UnEqual", NA)
+c(634, 3350)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_VLRNT
+c("review-Equal", NA)
+c(295, 3689)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_WOT
+c("review-UnEqual", NA)
+c(665, 3319)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_WOT
+c("review-Equal", NA)
+c(264, 3720)
+-------------------------------------------------
+Column to be tested: reviewChapter6_3_WOW
+c("review-UnEqual", NA)
+c(785, 3199)
+-------------------------------------------------
+Column to be tested: reviewChapter6_4_WOW
+c("review-Equal", NA)
+c(144, 3840)
+-------------------------------------------------
+Column to be tested: reviewChapter6_5
+c("review-in-1", "review-in-2", "review-in-3", "review-in-4", "review-in-5", "review-in-6", "review-in-7", "review-in-9", NA)
+c(211, 101, 0, 0, 70, 0, 19, 0, 3583)
+-------------------------------------------------
+Column to be tested: reviewChapter6_6
+c("review-in-1", "review-flag-never", "review-in-2", NA)
+c(274, 7, 148, 3555)
+-------------------------------------------------
+Column to be tested: reviewChapter6_7
+c("review6-in-1", "review6-flag-never", "review6-in-2", NA)
+c(261, 7, 75, 3641)
+-------------------------------------------------
+Test ran successfully for 409 columns...
